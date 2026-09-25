@@ -2,4 +2,21 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- Stepper Demo Theme Colors -->
+    <color name="bg_main">#F8FAFC</color>
+    <color name="card_bg">#FFFFFF</color>
+
+    <!-- Modern Indigo & Slate Palette -->
+    <color name="step_active">#4F46E5</color>
+    <color name="step_title_active">#0F172A</color>
+    <color name="step_desc_active">#475569</color>
+
+    <color name="step_inactive">#94A3B8</color>
+    <color name="step_desc_inactive">#CBD5E1</color>
+    <color name="step_line_inactive">#E2E8F0</color>
+
+    <color name="status_badge_bg">#EEF2FF</color>
+    <color name="status_badge_text">#4338CA</color>
+    <color name="primary_indigo">#4F46E5</color>
 </resources>
