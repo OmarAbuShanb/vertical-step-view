@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="VerticalStepView">
+        <!-- Titles -->
+        <attr name="titleTextSize" format="dimension" />
+        <attr name="completedTitleColor" format="color" />
+        <attr name="unCompletedTitleColor" format="color" />
+        <attr name="titleBoldForCompleted" format="boolean" />
+
+        <!-- Descriptions -->
+        <attr name="descriptionTextSize" format="dimension" />
+        <attr name="completedDescriptionColor" format="color" />
+        <attr name="unCompletedDescriptionColor" format="color" />
+        <attr name="descriptionBold" format="boolean" />
+        <attr name="titleDescriptionGap" format="dimension" />
+
+        <!-- Spacing & Sizing -->
+        <attr name="linePadding" format="dimension" />
+        <attr name="circleRadius" format="dimension" />
+        <attr name="textContainerMarginStart" format="dimension" />
+
+        <!-- Line Colors -->
+        <attr name="completedLineColor" format="color" />
+        <attr name="unCompletedLineColor" format="color" />
+
+        <!-- Icon Tints -->
+        <attr name="completeIconTint" format="color" />
+        <attr name="attentionIconTint" format="color" />
+        <attr name="defaultIconTint" format="color" />
+
+        <!-- Custom Icons -->
+        <attr name="completeIcon" format="reference" />
+        <attr name="attentionIcon" format="reference" />
+        <attr name="defaultIcon" format="reference" />
+
+        <!-- State & Options -->
+        <attr name="completingPosition" format="integer" />
+        <attr name="reverseDraw" format="boolean" />
+    </declare-styleable>
+</resources>
