@@ -10,7 +10,7 @@ A lightweight, customizable, and smooth Vertical Stepper / Timeline component fo
 
 ## 📱 Demo
 
-<!-- Drag and drop your GIF / Video demo here on GitHub -->
+<img width="400" height="667" alt="Screenrecorder-2026-09-26-01-05-11-783" src="https://github.com/user-attachments/assets/d5b55f6d-84ba-48d7-90ae-9ae8dbc9ead4" />
 
 ---
 
@@ -46,7 +46,7 @@ Add the dependency to your app module's `build.gradle`:
 
 ```groovy
 dependencies {
-    implementation 'com.github.anonymous:vertical-step-view:1.0.0'
+    implementation 'com.github.omarabushanb:vertical-step-view:1.0.0'
 }
 ```
 
